@@ -15,4 +15,4 @@ The author has done outside research by watching Youtube and consult outside res
 License associated with this project is that of MIT license as this was used to create the repository hosting this work.
 
 ## Learning Outcomes
-Through this challenge, the author has learned to extract codes and functions by studying the materials learned during class and from looking at other's input on shared forums.
+Through this challenge, the author has learned to extract codes and functions by studying the materials learned during class and from looking at other's input on shared forums. The author also learned to debug using console log which helped when writing longer codes when it is easy to lose tracks of parentheses and curly brackets.
